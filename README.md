@@ -1,2 +1,2 @@
 # digital-entomology-github
-Class work
+Introductory course work on coding
